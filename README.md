@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @HalimaHamood
-- 👀 I’m interested in IT tools, software, network, troubleshooting.
-- 🌱 I’m currently learning Front-end stuff.
-- 💞️ I’m looking to collaborate on Database and Back-end.
+- 👀 I’m interested in IT tools, software, networking, troubleshooting.
+- 🌱 I’m currently learning Front-end stuffs.
+- 💞️ I’m looking to collaborate on the databases and back-end.
 - 📫 How to reach me => halima-alrajaibi33@outlook.com
 
-<!---
-HalimaHamood/HalimaHamood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
