@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HalimaHamood
-- 👀 I’m interested in IT tools, software, networking, troubleshooting.
-- 🌱 I’m currently learning front-end stuffs.
-- 💞️ I’m looking to collaborate on the databases and back-end.
+- 👀 I’m interested in Odoo Development (Python Developer).
+- 🌱 I’m currently learning Python Programming.
+- 💞️ I’m looking to collaborate on Odoo Development.
 - 📫 How to reach me => halima-alrajaibi33@outlook.com
 
 
